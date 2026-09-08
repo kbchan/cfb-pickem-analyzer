@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database
+*.db
+
+# Raw downloaded ESPN data
+data/raw/
+
+# Generated files
+espn_week*_raw.json
+week*_parsed.csv
+
+# Streamlit
+.streamlit/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
