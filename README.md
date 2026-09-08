@@ -2,7 +2,11 @@
 
 A Python and Streamlit application for collecting and analyzing ESPN College Football Pick'em public selection data against the spread.
 
-The project automates the manual tracking of weekly Pick'em data and stores historical results in SQLite so performance can be analyzed by public pick percentage, favorite/underdog status, location, spread range, and other filters.
+The project automates weekly data collection, stores historical results in SQLite, and provides an interactive dashboard for analyzing public-pick performance by percentage range, favorite/underdog status, home/away position, and spread.
+
+## Dashboard
+
+![CFB Pick'em Analyzer Dashboard](docs/images/dashboard.png)
 
 ## Features
 
